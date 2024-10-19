@@ -21,7 +21,7 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=plastic&logoColor=white&logo=postgresql)](#)
 
 ### ⚙️ Software & Tools
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logoColor=white&logo=amazon-web-services)](#)
+[![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=plastic&logoColor=white&logo=amazon-web-services)](#)
 [![Datadog](https://img.shields.io/badge/-Datadog-%23632CA6?style=plastic&logo=datadog)](#)
 [![Discord](https://img.shields.io/badge/-Discord-%235865F2?style=plastic&logo=discord&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logoColor=white&logo=docker)](#)
