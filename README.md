@@ -1,4 +1,4 @@
-## Hi there! I'm Sinclo!👋🏾
+## Hi there! I'm Jordan!👋🏾
 
 - 💻 Manager, Software Quality Assurance at [Kibo Commerce](https://kibocommerce.com)
 - 🍎 Currently have 7+ years in QA, test automation and testing frameworks.
